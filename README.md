@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:ff5f87&height=140&section=header&text=Welcome&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A47,100:8A2BE2&height=140&section=header&text=Welcome&fontSize=32&fontColor=ffffff" />
 </p>
 
 <h1 align="center">Vladislav Melenchuk</h1>
@@ -59,5 +59,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5f87,100:1a1b26&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1A47,100:8A2BE2&height=120&section=footer" />
 </p>
+
