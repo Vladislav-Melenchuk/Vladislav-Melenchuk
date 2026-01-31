@@ -6,7 +6,7 @@
 <h3 align="center">Frontend / Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&color=00D9FF&center=true&vCenter=true&width=500&lines=Samurai+of+Clean+Code;Frontend+%2F+Full-stack;Neon+UI+%26+Rose+Vibes;Discipline+%3D+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&color=00D9FF&center=true&vCenter=true&width=500&lines=Focus+on+progress;Respect+for+details;Consistency+over+motivation;Build+%26+improve" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 ## 🧰 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,python,c#,github,figma)
 
 ---
 
