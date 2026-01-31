@@ -52,9 +52,14 @@
 
 ## 🌐 Connect with me
 
-🌸 Portfolio: coming soon  
-💬 Telegram: @rosebelike 
-📫 Email: v.melenchuk03@gmail.com
+<p align="center">
+  <a href="https://t.me/rosebelike" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%230068D9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:v.melenchuk03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
