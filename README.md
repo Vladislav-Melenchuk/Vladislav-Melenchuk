@@ -26,23 +26,6 @@
 
 ---
 
-## 🏯 Samurai Code
-
-- 🗡️ Clean code over quick hacks  
-- 🌸 Respect for details & UI polish  
-- ⚡ Performance is honor  
-- 🧠 Learning is a lifelong path  
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Vladislav-Melenchuk&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Vladislav-Melenchuk&theme=rose_pine&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav-Melenchuk&theme=rose_pine&hide_border=false&layout=compact)
-
----
-
 ## 🌸 Samurai Quote
 
 > *"Fall seven times, stand up eight."*  
